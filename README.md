@@ -1,8 +1,8 @@
 ## requirements :
 
-> VS Code
-> gcc/g++
-> time : install time : `sudo apt install time`
+- VS Code
+- gcc/g++
+- time : install time : `sudo apt install time`
 
 ## Usage :
 
